@@ -1,0 +1,7 @@
+# Se ignora todo por default en actor* y server
+actor*/*
+server/*
+
+# No se ignora ningun archivo de configuración de actor ni server
+!*/actor.yaml
+!*/server.yaml
