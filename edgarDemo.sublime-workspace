@@ -38,8 +38,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/ewmar/dev/easytech/repositories/demo",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/actor",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/server",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo"
+	],
 	"file_history":
 	[
+		"/C/Users/ewmar/dev/easytech/repositories/demo/.gitignore",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/actor/actor.yaml",
 		"/C/Users/ewmar/dev/easytech/repositories/demo/.submodules",
 		"/C/Users/ewmar/AppData/Roaming/Sublime Merge/Packages/User/Default (Windows).sublime-keymap"
 	],
@@ -160,7 +169,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 230.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
