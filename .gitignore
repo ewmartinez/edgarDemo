@@ -3,5 +3,5 @@ actor*/*
 server/*
 
 # No se ignora ningun archivo de configuración de actor ni server
-!*/actor.yaml
-!*/server.yaml
+!actor*/actor.yaml
+!server/server.yaml
