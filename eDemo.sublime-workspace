@@ -41,14 +41,22 @@
 	"expanded_folders":
 	[
 		"/C/Users/ewmar/dev/easytech/repositories/demo",
-		"/C/Users/ewmar/dev/easytech/repositories/demo/actor",
-		"/C/Users/ewmar/dev/easytech/repositories/demo/server",
-		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo"
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo/macros",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo/macros/web",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo/macros/web/redmine",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo/tests",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo/tests/web",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo/tests/web/redmine"
 	],
 	"file_history":
 	[
-		"/C/Users/ewmar/dev/easytech/repositories/demo/.gitignore",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo/tests/web/redmine/web-0001-loginEasyTech.yaml",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/test-repo/macros/redmine/loginRedmine.yaml",
 		"/C/Users/ewmar/dev/easytech/repositories/demo/actor/actor.yaml",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/eDemo.sublime-project",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/edgarDemo.sublime-project",
+		"/C/Users/ewmar/dev/easytech/repositories/demo/.gitignore",
 		"/C/Users/ewmar/dev/easytech/repositories/demo/.submodules",
 		"/C/Users/ewmar/AppData/Roaming/Sublime Merge/Packages/User/Default (Windows).sublime-keymap"
 	],
@@ -98,7 +106,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 39.3333333333
 	},
 	"layout":
 	{
@@ -128,7 +136,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "edgarDemo.sublime-project",
+	"project": "eDemo.sublime-project",
 	"replace":
 	{
 		"height": 0.0
@@ -145,12 +153,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.666666667,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\Users\\ewmar\\dev\\easytech\\repositories\\demo\\eDemo.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.666666667
 	},
 	"select_symbol":
 	{
@@ -165,11 +177,11 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
-	"show_open_files": false,
+	"show_minimap": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 230.0,
+	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
